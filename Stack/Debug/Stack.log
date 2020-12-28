@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+C:\Users\kre4e\source\repos\Stack\Stack.cpp(84): warning C4715: Stack<int>::top: значение возвращается не при всех путях выполнения
+  Stack.vcxproj -> C:\Users\kre4e\source\repos\Stack\Debug\Stack.exe
