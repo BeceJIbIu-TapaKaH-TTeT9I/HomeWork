@@ -1,0 +1,3 @@
+﻿  BinTree.cpp
+C:\Users\kre4e\source\repos\BinTree\BinTree.cpp(172): warning C4715: BinTree<int,char>::subSearch: значение возвращается не при всех путях выполнения
+  BinTree.vcxproj -> C:\Users\kre4e\source\repos\BinTree\Debug\BinTree.exe
